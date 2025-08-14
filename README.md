@@ -2,6 +2,8 @@ Please Refer the Document file for Reference...
 
 This project focuses on converting Braille to binary and then translating the binary data into readable text using a 16-segment display. The system has potential applications in translating and processing Braille content for the visually impaired.
 
+To open given file Innovative Assignment [22BCE125,22BCE129].cv which contain circuit use https://circuitverse.org/ .
+
 ## Steps:- 
 
 1. Braille to Binary Conversion:- Converts Braille characters into their corresponding binary representations.
